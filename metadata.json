@@ -1,0 +1,6 @@
+{
+  "name": "مدیریت رمز عبور آفلاین",
+  "description": "یک برنامه مدیریت رمز عبور کاملاً آفلاین، امن و زیبا با رمزگذاری AES-256 و پشتیبانی از اثر انگشت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
